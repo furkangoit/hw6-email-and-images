@@ -1,11 +1,10 @@
 {
-  "$schema": "https://json.schemastore.org/package.json",
   "name": "hw6-email-and-images",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
 "scripts": {
 "test": "echo \"Error: no test specified\" && exit 1",
-"start": "node src/server.js"
+"start": "node server.js"
 },
   "keywords": [],
   "author": "",
